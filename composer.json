@@ -1,0 +1,15 @@
+{
+  "name": "nampt/simple-log",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Simple//": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:logerdev/simple-log.git"
+    }
+  ]
+}
