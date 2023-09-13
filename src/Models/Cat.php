@@ -2,7 +2,7 @@
 
 namespace Simple\Models;
 
-use Simple\Contract\CatInterface;
+use Simple\Contracts\CatInterface;
 
 class Cat implements CatInterface
 {
